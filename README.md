@@ -10,6 +10,7 @@ Our motivation was to build an application that would allow us to practice integ
    ![mobile](./assets/images/mobile-top.png)
 
    ![pup](./assets/images/mobile-pup.png)
+
 ### To use the application, click on this link:
 
 https://perfectblue0.github.io/group-project-1/
